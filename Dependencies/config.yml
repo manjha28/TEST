@@ -1,0 +1,25 @@
+---
+
+person:
+  name: 'Manish Jha'
+  dob: 26072000
+  likes:
+    - Trading
+    - Coding
+    - Cooking
+    - Eating
+    - Loving
+  dislikes:
+    - Nothing
+    - something
+    - anything
+    - whatever
+  devices:
+    phone:
+      - Mi
+      - 4gb
+      - 128gb
+    laptop:
+      - Asus
+      - 8gb
+      - 1Tb
