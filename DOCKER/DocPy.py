@@ -1,7 +1,8 @@
 import requests
 import time
 
-website = "https://webscraper.io/test-sites"
+website = 'https://www.manishjha.in/'
+
 interval = 5
 while True:
     try:
