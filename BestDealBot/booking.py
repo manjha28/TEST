@@ -12,9 +12,9 @@ class Booking():
 
         # super(Booking,self).__init__()
 
-    # def __exit__(self, exc_type, exc_val, exc_tb):#working of context manager
-    #     if self.teardown:
-    #         self.driver.quit()
+    def __exit__(self, exc_type, exc_val, exc_tb):#working of context manager
+        if self.teardown:
+            self.driver.quit()
 
     def first_page(self):
         # driver = self.driver

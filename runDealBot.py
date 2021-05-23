@@ -1,4 +1,5 @@
 from BestDealBot.booking import Booking
 
-o = Booking()
-o.first_page()
+
+object = Booking()
+object.first_page()
